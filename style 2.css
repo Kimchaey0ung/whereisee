@@ -1,0 +1,39 @@
+* {
+	word-break: keep-all;
+}
+
+header {
+	background-color: hotpink;
+	text-align: center;	
+}
+
+h2 {
+	text-orientation: upright;
+	text-align: center;
+}
+
+article {
+	background-color: lightpink;
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+section {
+	border: 2px solid lemonchiffon;
+	width: 150px;
+	padding: 10px;
+}
+
+p {
+	word-break: keep-all;
+	height: 700px;
+	background: radial-gradient(lightyellow, white);
+	letter-spacing: 0.5px;
+	line-height: 1.5;
+	writing mode: vertical-rl
+	text-orientation: upright;
+	text-align: center;
+	border-radius: 10px;
+}
