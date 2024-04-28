@@ -1,3 +1,17 @@
+@media screen and (max-width: 900px) {
+	h2 {
+		font-size: 50px;
+	}
+	.n1,
+	.n2 {
+		margin: 30px;
+	}
+	p {
+		font-size: 20px;
+	}
+}
+
+
 * {
 	padding: 0;
 	margin: 0;
