@@ -1,0 +1,50 @@
+body {
+	align-items: center;
+}
+
+* {
+	word-break: keep-all;
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	background-color: limegreen;
+	text-align: center;	
+}
+
+h2 {
+	text-orientation: upright;
+	text-align: center;
+}
+
+article {
+	background-color: lightgreen;
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	text-align: center;
+}
+
+section {
+	border: 2px solid lemonchiffon;
+	width: 600px;
+	padding: 10px;
+	align-items: center;
+	text-align: center ;
+}
+
+p {
+	word-break: keep-all;
+	height: 350px;
+	background: radial-gradient(lightyellow, white);
+	letter-spacing: 0.1px;
+	line-height: 2;
+	writing mode: vertical-rl
+	text-orientation: upright;
+	text-align: center;
+	border-radius: 10px;
+}
+
